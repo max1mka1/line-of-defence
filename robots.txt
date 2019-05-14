@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+#Disallow: /bin/ # запрещает ссылки из "Корзины с товарами".
+#Disallow: /search/ # запрещает ссылки страниц встроенного на сайте поиска
+#Disallow: /admin/ # запрещает ссылки из панели администратора
+Sitemap: https://www.ius174.ru/SEO/sitemap # указываем роботу на файл sitemap для сайта
+#Clean-param: ref /some_dir/get_book.pl

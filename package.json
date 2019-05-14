@@ -1,0 +1,22 @@
+{
+  "name": "line-of-defence",
+  "version": "1.0.0",
+  "description": "Official web-site of Line of Defence Law company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max1mka1/line-of-defence.git"
+  },
+  "author": "Maksim Tingaev <tingaevmi@yandex.ru> (https://vk.com/tingaevmi)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max1mka1/line-of-defence/issues"
+  },
+  "homepage": "https://github.com/max1mka1/line-of-defence#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
